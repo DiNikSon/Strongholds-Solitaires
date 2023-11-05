@@ -1,3 +1,6 @@
-{
-"something":0
-}
+[
+  {
+    'layout':0,
+    'name':'something'
+  }
+]
